@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/OpenCV-4.8+-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/Arduino-Compatible-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"/>
 </p>
 
 <p align="center">
@@ -25,7 +24,7 @@
 
 An intelligent attendance and safety system that combines **RFID authorization**, **AI-powered facial recognition**, and **guardian verification** to ensure children's safety during check-in and check-out procedures.
 
-[🚀 Quick Start](#-installation) • [📖 Documentation](#-configuration) • [🤝 Contributing](#-contributing) • [🐛 Report Bug](https://github.com/somesh-opps/AI-Based-Child-Safety-System/issues)
+<!-- [🚀 Quick Start](#-installation) • [📖 Documentation](#-configuration) • [🤝 Contributing](#-contributing) • [🐛 Report Bug](https://github.com/somesh-opps/AI-Based-Child-Safety-System/issues) -->
 
 </div>
 
@@ -49,8 +48,7 @@ An intelligent attendance and safety system that combines **RFID authorization**
 - [🐛 Troubleshooting](#-troubleshooting)
 - [📊 Data Format](#-data-format)
 - [🤝 Contributing](#-contributing)
-- [📝 License](#-license)
-- [👨‍💻 Author](#-author)
+- [‍💻 Author](#-author)
 
 </details>
 
@@ -792,13 +790,7 @@ Contributions are welcome! Please follow these guidelines:
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👨‍💻 Author
+## ‍💻 Author
 
 **Somesh**
 - GitHub: [@somesh-opps](https://github.com/somesh-opps)
@@ -867,9 +859,9 @@ This system is designed for educational and childcare facility use. Users are re
 
 ## 🎉 **Made with ❤️ for Child Safety**
 
-<img src="https://img.shields.io/github/stars/somesh-opps/AI-Based-Child-Safety-System?style=social" alt="Stars"/>
+<!-- <img src="https://img.shields.io/github/stars/somesh-opps/AI-Based-Child-Safety-System?style=social" alt="Stars"/>
 <img src="https://img.shields.io/github/forks/somesh-opps/AI-Based-Child-Safety-System?style=social" alt="Forks"/>
-<img src="https://img.shields.io/github/watchers/somesh-opps/AI-Based-Child-Safety-System?style=social" alt="Watchers"/>
+<img src="https://img.shields.io/github/watchers/somesh-opps/AI-Based-Child-Safety-System?style=social" alt="Watchers"/> -->
 
 ---
 
@@ -890,7 +882,7 @@ This system is designed for educational and childcare facility use. Users are re
 
 ---
 
-**© 2025 Somesh • MIT License • Built with Python, OpenCV & Arduino**
+**© 2025 Somesh • Built with Python, OpenCV & Arduino**
 
 *Protecting children, one scan at a time* 🛡️👶
 
